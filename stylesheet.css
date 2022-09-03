@@ -1,0 +1,14 @@
+.button{
+    color: rgb(219, 212, 212); 
+   font-size: 40px;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: aqua;
+    font-size: 100px;
+}
